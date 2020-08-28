@@ -24,3 +24,4 @@ if position_taken?(board, index) == false && on_board?(index) == true
 else
   return false
 end
+end
